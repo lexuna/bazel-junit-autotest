@@ -1,3 +1,7 @@
 bazel-*
 *.swp
 .idea
+/target/
+/.project
+/.settings/
+/.classpath
